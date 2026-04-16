@@ -46,7 +46,7 @@ export function Contact() {
             className="border-white text-black hover:bg-white hover:text-black"
             asChild
           >
-            <a href="https://youtube.com/cloudnayeem" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.youtube.com/@TheAnnoor" target="_blank" rel="noopener noreferrer">
               <Youtube size={20} className="mr-2" />
               YouTube
             </a>
