@@ -20,7 +20,7 @@ import photo17 from "../../imports/P1096486.JPG";
 import photo18 from "../../imports/P1096482.JPG";
 import photo19 from "../../imports/P1096539.JPG";
 import photo20 from "../../imports/P1096481.JPG";
-import photo21 from "../../imports/mtf1.jpg";
+import photo21 from "../../imports/mtf1.JPG";
 export function PhotoGallery() {
   const photos = [
     {
