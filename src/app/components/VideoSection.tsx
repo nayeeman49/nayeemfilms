@@ -7,13 +7,16 @@ import photo17 from '../../imports/P1096486.JPG';
 import photo18 from '../../imports/P1096482.JPG';
 import photo19 from '../../imports/P1096539.JPG';
 import photo20 from '../../imports/P1096481.JPG';
+import photo21 from '../../imports/weddingphoto1.jpeg';
+
+
 
 export function VideoSection() {
   const videos = [
     {
       id: 1,
       title: 'Cinematic Wedding Film',
-      thumbnail: photo18 ,
+      thumbnail: photo21 ,
       duration: '3:45',
       videoUrl: '',
     },
