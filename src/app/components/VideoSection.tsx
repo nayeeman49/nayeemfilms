@@ -18,7 +18,7 @@ export function VideoSection() {
       title: 'Cinematic Wedding Film',
       thumbnail: photo21 ,
       duration: '3:45',
-      videoUrl: '',
+      videoUrl: 'https://youtu.be/b0znpMathaA',
     },
     {
       id: 2,
