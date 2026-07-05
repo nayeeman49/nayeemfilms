@@ -32,6 +32,12 @@ import photo19 from "../../imports/P1096539.JPG";
 import photo20 from "../../imports/P1096481.JPG";
 import photo21 from "../../imports/mtf1.JPG";
 import photo22 from "../../imports/mt1.JPG";
+import mt2 from "../../imports/mt2.JPG";
+import mt3 from "../../imports/mt3.JPG";
+import mt4 from "../../imports/mt4.JPG";
+import mt5 from "../../imports/mt5.JPG";
+import mt6 from "../../imports/mt6.JPG";
+
 
 export function PhotoGallery() {
   const photos = [
@@ -113,6 +119,11 @@ export function PhotoGallery() {
     {
       id: 18,
       src: photo22, // mt1.JPG
+      title: "Your Title",
+    },
+    {
+      id: 19,
+      src: mt2, // mt2.JPG
       title: "Your Title",
     },
   ];
