@@ -100,6 +100,11 @@ export function PhotoGallery() {
       src: photo17, // P1096486.JPG
       title: "Your Title",
     },
+    {
+      id: 18,
+      src: photo22, // mt1.jpg
+      title: "Your Title",
+    },
   ];
 
   return (
