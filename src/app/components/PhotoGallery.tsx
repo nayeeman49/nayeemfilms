@@ -1,3 +1,13 @@
+import React from "react";
+
+// Provide a minimal JSX namespace so TypeScript recognizes JSX intrinsic elements
+declare global {
+  namespace JSX {
+    interface IntrinsicElements {
+      [elemName: string]: any;
+    }
+  }
+}
 import image_2c3dbaebc4352b8efabc03a5da381230c9826940 from "figma:asset/2c3dbaebc4352b8efabc03a5da381230c9826940.png";
 import newPhoto from "../../imports/P1096747.JPG";
 import Masonry from "react-responsive-masonry";
