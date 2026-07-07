@@ -202,7 +202,7 @@ export function PhotoGallery() {
     },
     {
       id: 37,
-      src: photo30, // wd11.JPG
+      src: photo37, // wd11.JPG
       title: "Your Title",
     },
    
