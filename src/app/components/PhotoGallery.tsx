@@ -36,6 +36,11 @@ import photo23 from "../../imports/mt2.JPG";
 import photo24 from "../../imports/mt3.JPG";
 import photo25 from "../../imports/mt4.JPG";
 import photo26 from "../../imports/mt5.JPG";
+import photo22 from "../../imports/wd1.JPG";
+import photo23 from "../../imports/wd2.JPG";
+import photo24 from "../../imports/wd3.JPG";
+import photo25 from "../../imports/wd4.JPG";
+import photo26 from "../../imports/wd5.JPG";
 
 
 export function PhotoGallery() {
@@ -143,6 +148,31 @@ export function PhotoGallery() {
     {
       id: 26,
       src: photo26, // mt5.JPG
+      title: "Your Title",
+    },
+    {
+      id: 27,
+      src: photo22, // wd1.JPG
+      title: "Your Title",
+    },
+    {
+      id: 28,
+      src: photo23, // wd2.JPG
+      title: "Your Title",
+    },
+    {
+      id: 29,
+      src: photo24, // wd3.JPG
+      title: "Your Title",
+    },
+    {
+      id: 30,
+      src: photo25, // wd4.JPG
+      title: "Your Title",
+    },
+    {
+      id: 31,
+      src: photo26, // wd5.JPG
       title: "Your Title",
     },
   ];
