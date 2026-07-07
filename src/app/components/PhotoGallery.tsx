@@ -180,7 +180,7 @@ export function PhotoGallery() {
       src: photo31, // wd5.JPG
       title: "Your Title",
     },
-      {
+    {
       id: 33,
       src: photo33, // wd7.JPG
       title: "Your Title",
