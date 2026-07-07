@@ -205,7 +205,6 @@ export function PhotoGallery() {
       src: photo37, // wd11.JPG
       title: "Your Title",
     },
-   
   ];
 
   return (
