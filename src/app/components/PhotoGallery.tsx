@@ -32,11 +32,11 @@ import photo19 from "../../imports/P1096539.JPG";
 import photo20 from "../../imports/P1096481.JPG";
 import photo21 from "../../imports/mtf1.JPG";
 import photo22 from "../../imports/mt1.JPG";
-import photo23 from "../../imports/mt2.jpg";
-import photo24 from "../../imports/mt3.jpg";
-import photo25 from "../../imports/mt4.jpg";
-import photo26 from "../../imports/mt5.jpg";
-import photo27 from "../../imports/mt6.jpg";
+import photo23 from "../../imports/mt2.JPG";
+import photo24 from "../../imports/mt3.JPG";
+import photo25 from "../../imports/mt4.JPG";
+import photo26 from "../../imports/mt5.JPG";
+import photo27 from "../../imports/mt6.JPG";
 
 
 export function PhotoGallery() {
@@ -128,27 +128,27 @@ export function PhotoGallery() {
     },
     {
       id: 23,
-      src: photo23, // mt2.jpg
+      src: photo23, // mt2.JPG
       title: "Your Title",
     },
     {
       id: 24,
-      src: photo24, // mt3.jpg
+      src: photo24, // mt3.JPG
       title: "Your Title",
     },
     {
       id: 25,
-      src: photo25, // mt4.jpg
+      src: photo25, // mt4.JPG
       title: "Your Title",
     },
     {
       id: 26,
-      src: photo26, // mt5.jpg
+      src: photo26, // mt5.JPG
       title: "Your Title",
     },
     {
       id: 27,
-      src: photo27, // mt6.jpg
+      src: photo27, // mt6.JPG
       title: "Your Title",
     },
   ];
