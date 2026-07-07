@@ -202,12 +202,12 @@ export function PhotoGallery() {
     },
     {
       id: 36,
-      src: photo36, // wd10.JPG
+      src: photo36
       title: "Your Title",
     },
     {
       id: 37,
-      src: photo37, // wd11.JPG
+      src: photo37
       title: "Your Title",
     },
   ];
