@@ -43,10 +43,6 @@ import photo30 from "../../imports/wd4.JPG";
 import photo31 from "../../imports/wd5.JPG";
 import photo32 from "../../imports/wd6.JPG";
 import photo33 from "../../imports/wd7.JPG";
-import photo34 from "../../imports/wd8.JPG";
-import photo35 from "../../imports/wd9.JPG";
-import photo36 from "../../imports/wd10.JPG";
-import photo37 from "../../imports/wd11.jpeg";
 
 export function PhotoGallery() {
   const photos = [
