@@ -181,6 +181,11 @@ export function PhotoGallery() {
       title: "Your Title",
     },
     {
+      id: 32,
+      src: photo32, // wd6.JPG
+      title: "Your Title",
+    },
+    {
       id: 33,
       src: photo33, // wd7.JPG
       title: "Your Title",
