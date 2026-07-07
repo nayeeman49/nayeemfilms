@@ -9,7 +9,7 @@ import photo19 from '../../imports/P1096539.JPG';
 import photo20 from '../../imports/P1096481.JPG';
 import photo21 from '../../imports/weddingphoto1.JPG';
 import photo22 from '../../imports/mt1.JPG';
-import photo23 from '../../imports/tokyo.JPG';
+import photo23 from '../../imports/tokyo.jpg';
 
 export function VideoSection() {
   const videos = [
