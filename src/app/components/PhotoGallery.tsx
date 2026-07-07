@@ -190,26 +190,7 @@ export function PhotoGallery() {
       src: photo33, // wd7.JPG
       title: "Your Title",
     },
-    {
-      id: 34,
-      src: photo34, // wd8.JPG
-      title: "Your Title",
-    },
-    {
-      id: 35,
-      src: photo35, // wd9.JPG
-      title: "Your Title",
-    },
-    {
-      id: 36,
-      src: photo36
-      title: "Your Title",
-    },
-    {
-      id: 37,
-      src: photo37  // wd11.jpeg
-      title: "Your Title",
-    },
+
   ];
 
   return (
