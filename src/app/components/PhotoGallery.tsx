@@ -33,8 +33,11 @@ import photo20 from "../../imports/P1096481.JPG";
 import photo21 from "../../imports/mtf1.JPG";
 import photo22 from "../../imports/mt1.JPG";
 import photo23 from "../../imports/mt2.JPG";
+import photo24 from "../../imports/mt3.JPG";
 import photo25 from "../../imports/mt4.JPG";
 import photo26 from "../../imports/mt5.JPG";
+import photo27 from "../../imports/mt6.JPG";
+
 
 export function PhotoGallery() {
   const photos = [
@@ -119,7 +122,7 @@ export function PhotoGallery() {
       title: "Your Title",
     },
     {
-      id: 19,
+      id: 23,
       src: photo23, // mt2.JPG
       title: "Your Title",
     },
