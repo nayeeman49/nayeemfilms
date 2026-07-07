@@ -29,10 +29,10 @@ export function VideoSection() {
     },
     {
       id: 3,
-      title: 'Documentary/Travel Project',
+      title: 'Documentaries and Vlogs',
       thumbnail: documentaryThumbnail,
       duration: '5:20',
-      videoUrl: 'https://youtu.be/sr7_K2MDY4Q',
+      videoUrl: 'https://www.youtube.com/watch?v=fr2C4qPumRQ',
     },
     {
       id: 4,
