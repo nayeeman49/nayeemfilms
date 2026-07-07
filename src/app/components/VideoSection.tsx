@@ -8,7 +8,7 @@ import photo18 from '../../imports/P1096482.JPG';
 import photo19 from '../../imports/P1096539.JPG';
 import photo20 from '../../imports/P1096481.JPG';
 import photo21 from '../../imports/weddingphoto1.JPG';
-
+import photo22 from '../../imports/mt1.JPG';
 
 
 export function VideoSection() {
@@ -37,9 +37,9 @@ export function VideoSection() {
     {
       id: 4,
       title: 'Event Highlights',
-      thumbnail: photo16,
+      thumbnail: photo22,
       duration: '4:15',
-      videoUrl: '',
+      videoUrl: 'https://www.youtube.com/shorts/-iQoYE6Cw1M',
     },
   ];
 
