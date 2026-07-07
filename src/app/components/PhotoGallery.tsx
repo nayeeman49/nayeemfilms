@@ -36,7 +36,6 @@ import photo23 from "../../imports/mt2.JPG";
 import photo24 from "../../imports/mt3.JPG";
 import photo25 from "../../imports/mt4.JPG";
 import photo26 from "../../imports/mt5.JPG";
-import photo27 from "../../imports/mt6.JPG";
 
 
 export function PhotoGallery() {
