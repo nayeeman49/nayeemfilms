@@ -146,11 +146,6 @@ export function PhotoGallery() {
       src: photo26, // mt5.JPG
       title: "Your Title",
     },
-    {
-      id: 27,
-      src: photo27, // mt6.JPG
-      title: "Your Title",
-    },
   ];
 
   return (
