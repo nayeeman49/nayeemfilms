@@ -43,6 +43,7 @@ import photo30 from "../../imports/wd4.JPG";
 import photo31 from "../../imports/wd5.JPG";
 import photo32 from "../../imports/wd6.JPG";
 import photo33 from "../../imports/wd7.JPG";
+import photo34 from "../../imports/wd8.jpg";
 
 export function PhotoGallery() {
   const photos = [
@@ -184,6 +185,11 @@ export function PhotoGallery() {
     {
       id: 33,
       src: photo33, // wd7.JPG
+      title: "Your Title",
+    },
+    {
+      id: 34,
+      src: photo34, // wd8.jpg
       title: "Your Title",
     },
   ];
